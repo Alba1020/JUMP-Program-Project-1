@@ -22,16 +22,16 @@ body{
     max-width: 1000px;
     min-height: 1000px;
     margin: 50px;
-    background: #FCF6F5FF; /*darkblue*/
+    background: #FCF6F5FF; 
     display: grid;
     grid-template-columns: 1fr 2fr;
-    box-shadow: 0 35px 55px #990011FF; /*white*/
+    box-shadow: 0 35px 55px #990011FF; 
 
 }
 
 .container .left-side{
     position: relative;
-    background: #990011FF; /* darkblue */
+    background: #990011FF;
     padding: 40px;
     
 }
@@ -114,9 +114,9 @@ body{
 }
 
 .edu h5{
-    color: yellow; /* light blue */
+    color: yellow; 
     font-weight: 500;
-    font-size: 18px; /*testing sizes*/
+    font-size: 18px; 
 }
 
 .edu h4{
